@@ -1,0 +1,29 @@
+main img {
+    border: 5 px solid #2c922a;
+}
+
+body {
+    font-family: Roboto;
+}
+nav {
+    margin: 20 px;
+    padding: 10 px;
+
+    border: 2 px solid lightgray;
+}
+
+nav a {
+    margin: 60 px;
+    font-size: 20 px;
+    text-decoration: none;
+    color: rgb(48, 140, 216);
+}
+
+footer{
+    text-align: center;
+    background-color: gold;
+}
+main p {
+    font-size: 18 px;
+
+}
